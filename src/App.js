@@ -6,7 +6,7 @@ const App = () => {
             <h1>Welcome to Archery App!</h1>
             <p>Track your progress, compete in tournaments, and level up your archery skills!</p>
             <button style={{ backgroundColor: '#0088cc', color: 'white', padding: '10px 20px', border: 'none', borderRadius: '5px', fontSize: '16px', cursor: 'pointer' }}>
-                Get Started
+                Давай приступим
             </button>
         </div>
     );
